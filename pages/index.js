@@ -18,14 +18,14 @@ return (
     <div class="container">
       <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
         <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
-          <img src="/images/Logo.jpeg" width="60" height="60"></img>
+          <img src="Logo.jpeg" width="60" height="60"></img>
           <span class="fs-4">ScootService - scootmobielverhuur op maat</span>
         </a>
       </header>
     </div>
 
     <div class="bd-example m-0 border-0">
-      <img src="/images/Lake.jpg" class="img-fluid rounded mx-auto d-block" alt="Responsive image"></img>
+      <img src="Lake.jpg" class="img-fluid rounded mx-auto d-block" alt="Responsive image"></img>
 
     </div>
 
